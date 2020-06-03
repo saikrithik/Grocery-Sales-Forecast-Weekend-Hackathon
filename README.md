@@ -12,7 +12,7 @@ Given the daily sales of a grocery shop recorded over a period of almost 2 years
 # A Description of my Methodology
 #### Feature Engineering & Approach
 1. Added New columns for the Time series to make our model much standard.
-2. Used xgbm for modeling.
+2. Used XGBRegressor for modeling.
 #### Tools used
 1. Python for programming
 2. sklearn and numpy libraries for methodology
